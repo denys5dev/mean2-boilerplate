@@ -5,7 +5,7 @@ Expresss,
 Node,
 MongoDB(optional)
 
-1. git clobe
+1. git clone
 2. npm install
 3. run: nodemon app(for server)
 4. run: npm run serve(for client)
