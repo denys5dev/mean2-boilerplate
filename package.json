@@ -1,0 +1,39 @@
+{
+  "name": "mean-2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "serve": "webpack --process --watch"
+  },
+  "dependencies": {
+    "angular2-bundle": "^2.2.1",
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "^2.5.5",
+    "express": "~4.14.0",
+    "morgan": "~1.7.0",
+    "pug": "~2.0.0-beta6",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.35",
+    "@types/node": "^7.0.0",
+    "angular2-template-loader": "^0.6.0",
+    "css-loader": "^0.26.1",
+    "html-webpack-plugin": "^2.26.0",
+    "html-webpack-pug-plugin": "0.0.3",
+    "node-sass": "^4.2.0",
+    "nodemon": "^1.11.0",
+    "pug-ng-html-loader": "^1.0.10",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^4.1.1",
+    "scss-loader": "0.0.1",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^1.3.3",
+    "typescript": "^2.0.9",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
